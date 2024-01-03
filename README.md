@@ -1,5 +1,4 @@
-# Projeto de Rede Neural: Implementação simples para reconhecimento de padrões utilizando uma arquitetura de aprendizado profundo. Explore a magia dos algoritmos de machine learning e aprimore suas habilidades no universo fascinante das redes neurais.
-
+# Projeto de Rede Neural: Implementação simples para reconhecimento de padrões utilizando uma arquitetura de aprendizado profundo.
 
 ### Base de dados de valores de casas em Paris
 Utilizamos uma base de dados do Kaggle de preço de casas ficticias em Paris. O preço é definido pelos seguintes critérios:
