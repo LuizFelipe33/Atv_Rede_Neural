@@ -1,5 +1,7 @@
 # Projeto de Análise de Valores de Casas em Paris
 
+link do Colab: https://colab.research.google.com/drive/11a5x6Lb-XsiADxEyTEvN8qeLDVgL3LEE?usp=sharing
+
 ## Descrição
 Este projeto analisa dados de valores de casas em Paris, aplicando técnicas de pré-processamento, visualização e modelagem preditiva utilizando uma Rede Neural com Cross Validation e uma Árvore de Decisão.
 
